@@ -1,0 +1,22 @@
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\EcoVist Launcher.exe
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\EcoVist Launcher.deps.json
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\EcoVist Launcher.runtimeconfig.json
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\EcoVist Launcher.dll
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\ref\EcoVist Launcher.dll
+C:\Users\tidwe\source\repos\EcoVist Launcher\bin\Debug\net6.0-windows\EcoVist Launcher.pdb
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.csproj.AssemblyReference.cache
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher_Content.g.cs
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher_MarkupCompile.cache
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher_MarkupCompile.lref
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.g.resources
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.AssemblyInfoInputs.cache
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.AssemblyInfo.cs
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.csproj.CoreCompileInputs.cache
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.dll
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\ref\EcoVist Launcher.dll
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.pdb
+C:\Users\tidwe\source\repos\EcoVist Launcher\obj\Debug\net6.0-windows\EcoVist Launcher.genruntimeconfig.cache

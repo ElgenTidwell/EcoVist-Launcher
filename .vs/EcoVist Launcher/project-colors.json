@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "153ef599-4077-41bf-a54f-902da265553b": {
+      "ProjectGuid": "153ef599-4077-41bf-a54f-902da265553b",
+      "DisplayName": "EcoVist Launcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
