@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist Launcher.csproj": {}
+    "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist-Launcher\\EcoVist Launcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist Launcher.csproj": {
+    "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist-Launcher\\EcoVist Launcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist Launcher.csproj",
+        "projectUniqueName": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist-Launcher\\EcoVist Launcher.csproj",
         "projectName": "EcoVist Launcher",
-        "projectPath": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist Launcher.csproj",
+        "projectPath": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist-Launcher\\EcoVist Launcher.csproj",
         "packagesPath": "C:\\Users\\tidwe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\obj\\",
+        "outputPath": "C:\\Users\\tidwe\\source\\repos\\EcoVist Launcher\\EcoVist-Launcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
