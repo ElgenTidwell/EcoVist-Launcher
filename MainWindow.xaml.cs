@@ -26,6 +26,7 @@ namespace EcoVist_Launcher
 		private string patchnotes;
 		private string gameZip;
 		private string gameEXE;
+		const double LAUNCHERVER = 1.0;
 
 		private LauncherStatus _status;
 		internal LauncherStatus Status
@@ -54,6 +55,23 @@ namespace EcoVist_Launcher
 
 		private void CheckForUpdates()
 		{
+			try
+			{
+				WebClient wc = new WebClient();
+				double onlinever = double.Parse(wc.DownloadString("https://drive.google.com/uc?export=download&id=1fli70oLcTUTJgH2nFQO3_vZJoM6eIDfB"));
+
+				if(onlinever > LAUNCHERVER)
+				{
+					MessageBox.Show("Your launcher is out of date! \n You should update your launcher, otherwise the game may not download correctly!", "Launcher out of date!");
+					outOfDate_Warning.Text = "!OUT OF DATE LAUNCHER!";
+					outOfDate_Warning.TextAlignment = TextAlignment.Center;
+				}
+			}
+			catch(Exception ex)
+			{
+				MessageBox.Show($"Error checking for launcher updates: {ex}");
+			}
+
 			if(File.Exists(versionFile))
 			{
 				Version localVer = new Version(File.ReadAllText(versionFile));
@@ -208,7 +226,7 @@ namespace EcoVist_Launcher
 					return true;
 				}else
 				{
-					if (major != _other.minor)
+					if (patch != _other.patch)
 					{
 						return true;
 					}
