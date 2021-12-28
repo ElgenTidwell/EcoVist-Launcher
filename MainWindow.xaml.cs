@@ -26,7 +26,7 @@ namespace EcoVist_Launcher
 		private string patchnotes;
 		private string gameZip;
 		private string gameEXE;
-		const double LAUNCHERVER = 1.0;
+		const double LAUNCHERVER = 1.1;
 
 		private LauncherStatus _status;
 		internal LauncherStatus Status
